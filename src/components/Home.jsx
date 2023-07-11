@@ -8,7 +8,9 @@ export default function Home() {
 
   return (
     <>
-      <div>Home</div>
+      <div className=''>
+        <div>Home</div>
+      </div>
     </>
   )
 }
