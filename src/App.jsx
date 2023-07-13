@@ -1,6 +1,6 @@
 import React from 'react'
 import { Routes, Route } from 'react-router-dom'
-import { Home, Navbar, Trivia } from './components'
+import { Home, Navbar, Trivia, Who_am_i } from './components'
 
 function App() {
   return (
@@ -10,6 +10,7 @@ function App() {
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='trivia' element={<Trivia />} />
+          <Route path='who-am-i' element={<Who_am_i />} />
         </Routes>
       </div>
     </>

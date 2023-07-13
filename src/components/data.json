@@ -1,0 +1,74 @@
+[
+  {
+    "answer": ["Tom Cruise", "Tom", "Cruise"],
+    "image": "src/assets/images_guesswho/tom_cruise.jpg"
+  },
+  {
+    "answer": ["Johnny Depp", "Johnny", "Depp"],
+    "image": "src/assets/images_guesswho/johnny_depp.jpg"
+  },
+  {
+    "answer": ["Scarlett Johansson", "Scarlett", "Johansson"],
+    "image": "src/assets/images_guesswho/scarlett_johansson.jpg"
+  },
+  {
+    "answer": ["Robert Downey Jr.", "Robert", "Downey Jr."],
+    "image": "src/assets/images_guesswho/robert_downey_jr.jpg"
+  },
+  {
+    "answer": ["Emma Watson", "Emma", "Watson"],
+    "image": "src/assets/images_guesswho/emma_watson.jpg"
+  },
+  {
+    "answer": ["Dwayne Johnson", "Dwayne", "Johnson"],
+    "image": "src/assets/images_guesswho/dwayne_johnson.jpg"
+  },
+  {
+    "answer": ["Brad Pitt", "Brad", "Pitt"],
+    "image": "src/assets/images_guesswho/brad_pitt.jpg"
+  },
+  {
+    "answer": ["Tom Holland", "Tom", "Holland"],
+    "image": "src/assets/images_guesswho/tom_holland.jpg"
+  },
+  {
+    "answer": ["Chris Evans", "Chris", "Evans"],
+    "image": "src/assets/images_guesswho/chris_evans.jpg"
+  },
+  {
+    "answer": ["Hugh Jackman", "Hugh", "Jackman"],
+    "image": "src/assets/images_guesswho/hugh_jackman.jpg"
+  },
+  {
+    "answer": ["Chris Hemsworth", "Chris", "Hemsworth"],
+    "image": "src/assets/images_guesswho/chris_hemsworth.jpg"
+  },
+  {
+    "answer": ["Ryan Reynolds", "Ryan", "Reynolds"],
+    "image": "src/assets/images_guesswho/ryan_reynolds.jpg"
+  },
+  {
+    "answer": ["Anne Hathaway", "Anne", "Hathaway"],
+    "image": "src/assets/images_guesswho/anne_hathaway.jpg"
+  },
+  {
+    "answer": ["Will Smith", "Will", "Smith"],
+    "image": "src/assets/images_guesswho/will_smith.jpg"
+  },
+  {
+    "answer": ["Stephen Curry", "Stephen", "Curry"],
+    "image": "src/assets/images_guesswho/stephan_curry.jpg"
+  },
+  {
+    "answer": ["Heung Min Son", "Heung Min", "Son"],
+    "image": "src/assets/images_guesswho/heung_min_son.jpg"
+  },
+  {
+    "answer": ["Lionel Messi", "Lionel", "Messi"],
+    "image": "src/assets/images_guesswho/lionel_messi.jpg"
+  },
+  {
+    "answer": ["Cristiano Ronaldo", "Cristiano", "Ronaldo"],
+    "image": "src/assets/images_guesswho/cristiano_ronaldo.jpg"
+  }
+]
